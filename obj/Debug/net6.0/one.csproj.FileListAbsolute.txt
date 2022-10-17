@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба it\one\bin\Debug\net6.0\one.exe
+C:\Users\User\Desktop\учеба it\one\bin\Debug\net6.0\one.deps.json
+C:\Users\User\Desktop\учеба it\one\bin\Debug\net6.0\one.runtimeconfig.json
+C:\Users\User\Desktop\учеба it\one\bin\Debug\net6.0\one.dll
+C:\Users\User\Desktop\учеба it\one\bin\Debug\net6.0\one.pdb
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.dll
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\refint\one.dll
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.pdb
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\one.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба it\one\obj\Debug\net6.0\ref\one.dll
